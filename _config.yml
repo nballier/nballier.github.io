@@ -22,8 +22,8 @@ repository               : "https://nballier.github.io/" #academicpages/academic
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "" #"profile.png"
-  name             : "Prof. Nicolas Ballier"
+  avatar           : "" #"newBallier-150x150.jpg"
+  name             : "Nicolas Ballier"
   pronouns         : # example: "she/her"  
   bio              : "Full Prof. of English Linguistics"
   location         : "France"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with your Bluesky username
+  bluesky          : #"bsky.app" # Replace this with your Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "" #https://www.youtube.com/watch?v=nokwdPdj3Xc"
+  youtube          : "https://www.youtube.com/watch?v=nokwdPdj3Xc"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
