@@ -7,6 +7,9 @@
 main:
   - title: "Publications"
     url: /publications/
+        
+  - title: "Projects"
+    url: /projects/
 
   - title: "Talks"
     url: /talks/    
@@ -22,6 +25,4 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Projects"
-    url: /markdown/
+
