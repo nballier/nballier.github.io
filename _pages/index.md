@@ -6,9 +6,8 @@ author_profile: true
 #title: Home
 ---
 
-I am a Professor of English Linguistics at Université Paris Cité in the [ALTAE Lab](https://clillac-arp.u-paris.fr/annuaire/ballier-nicolas/). My work focuses on interpretability and robustness of NLP applications based on Large Language Models, as well as their sociotechnical impacts. 
+I am Professor of English Linguistics at Université Paris Cité, UFR d’Etudes anglophones and a member of the [ALTAE Lab](https://clillac-arp.u-paris.fr/annuaire/ballier-nicolas/). My background (PhD) is in the epistemology of linguistics. I have a strong interest in eighteenth century representation of the Phonetics of English and in digital humanities. My research investigates the third revolution of grammatisation: what computers do to linguistic data. I have worked on computational analyses of spoken and written learner data. My recent research focuses on the interpretability of neural machine translation and the representation of speech in Whisper, an audio large language model.
 
-I hold a PhD in Computational Linguistics from the [University of Tokyo](https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/lis/)), followed by postdocs in Machine Learning for NLP ([University of Massachusetts](https://text-machine.cs.uml.edu/) (Lowell)) and Social Data Science ([University of Copenhagen](https://sodas.ku.dk/)).
 
 <img src="/assets/icons/door-open-solid.svg" class="sidebaricon" aria-hidden="true"/> Open research positions: see [here](/lab/#phd-and-postdoc-positions)
 
