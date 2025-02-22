@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+CV on HAL
+======
+<https://cv.hal.science/nicolas-ballier>
+
 Education
 ======
 * Habilitation Thesis, Paris X-Nanterre University, 2005
@@ -17,12 +22,10 @@ Education
 Work experience
 ======
 * 2009-now : Université Paris Cité
-  * 
-  *
-  *
-  *  PhD Supervisor
+* 
+*
+*  PhD Supervisor
 
-* Fall 2015: Research Assistant
 
 Publications
 ======
