@@ -1,7 +1,15 @@
+---
+layout: archive
+title: "Lab"
+permalink: /lab/
+author_profile: true
+redirect_from:
+  - /supervision
+---
 
+# APREM
 
-With Dr [Maria Zimina-Poirot](https://clillac-arp.u-paris.fr/annuaire/zimina-poirot-maria/) I am in charge of the [ALTAE lab](https://clillac-arp.u-paris.fr/) modules
-dedicated to AI, data, tools 
+With Dr [Maria Zimina-Poirot](https://clillac-arp.u-paris.fr/annuaire/zimina-poirot-maria/) I am in charge of the [ALTAE lab](https://clillac-arp.u-paris.fr/) module dedicated to AI, data, tools 
 called ['APREM'](https://clillac-arp.u-paris.fr/structure/atelier-permanent-de-reflexion-epistemologique-et-methodologique/)
 
 
