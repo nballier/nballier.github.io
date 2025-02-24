@@ -22,9 +22,7 @@ Education
 Work experience
 ======
 * 2009-now : Université Paris Cité
-* 
-*
-*  PhD Supervisor
+*  PhD Supervisor, Hab. thesis mentor, MA advisor
 
 
 Publications
@@ -34,4 +32,4 @@ Publications
   
 Service and leadership
 ======
-* PI for several projects at Université Paris Cité
+* PI for [several projects at Université Paris](https://nballier.github.io//projects/)
