@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>  and on  <a href="view-source:https://aclanthology.org/people/n/nicolas-ballier/">the ACL anthology</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>  and on  <a href="https://aclanthology.org/people/n/nicolas-ballier/">the ACL anthology</a>.</div>
 {% endif %}
 
 {% include base_path %}
