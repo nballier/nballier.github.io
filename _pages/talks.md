@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**12 April 2025** <a href="**https://www.example.com**" target="_blank">Grenoble talk at LIDILEM and Service des Langues</a>
+**12 April 2025** <a href="**[https://www.example.com](https://lidilem.univ-grenoble-alpes.fr/actualites/automated-l2-speaking-assessment)**" target="_blank">Grenoble talk at LIDILEM and Service des Langues</a>
 
 Nicolas Ballier (ALTAE, Université Paris Cité) Whisper for L2 scoring : from segmental to suprasegmental features
 
