@@ -26,9 +26,12 @@ par le biais des apprenants artificiels
 
 # PAST TALKS
 
-
-
 * Ballier, N. (2023)  “Using Whisper for translation and transcription: an XAI roadmap for audio multilingual LLMs” Invited talk at the [LIG GetALP Seminar](http://lig-getalp-new.imag.fr/seminaires-dequipe/), 17 November 2023
+
+
+* Nicolas Ballier (Université Paris Cité)  Travaux en cours sur la traduction neuronale, [LIG GetALP Seminar](http://lig-getalp-new.imag.fr/seminaires-dequipe/), jeudi 8 décembre à 13h.
+
+ 
 
 
 
