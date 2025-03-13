@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-**12 April 2025**  LIG [Grenoble talk at LIDILEM and Service des Langues](https://lidilem.univ-grenoble-alpes.fr/actualites/automated-l2-speaking-assessment)
+**12 April 2025**  LIG [Grenoble talk at LIDILEM and Service des Langues](https://lidilem.univ-grenoble-alpes.fr/actualites/automated-l2-speaking-assessment){:target="_blank"}
 
 Nicolas Ballier (ALTAE, Université Paris Cité) Whisper for L2 scoring : from segmental to suprasegmental features
 
