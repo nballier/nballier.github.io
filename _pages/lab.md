@@ -9,17 +9,17 @@ redirect_from:
 
 # APREM
 
-With Dr [Maria Zimina-Poirot](https://clillac-arp.u-paris.fr/annuaire/zimina-poirot-maria/) I am in charge of the [ALTAE lab](https://clillac-arp.u-paris.fr/) module dedicated to AI, data, tools 
-called ['APREM'](https://clillac-arp.u-paris.fr/structure/atelier-permanent-de-reflexion-epistemologique-et-methodologique/)
+With Dr [Maria Zimina-Poirot](https://clillac-arp.u-paris.fr/annuaire/zimina-poirot-maria/){:target="_blank"} I am in charge of the [ALTAE lab](https://clillac-arp.u-paris.fr/){:target="_blank"} module dedicated to AI, data, tools 
+called ['APREM'](https://clillac-arp.u-paris.fr/structure/atelier-permanent-de-reflexion-epistemologique-et-methodologique/){:target="_blank"}
 
 
 
 # Tools, methods and Interpretation
-We host training sessions on linguistic tools, jupyter notebooks, GPUS and platforms, and other types of linguistic sofware.  
+We host training sessions on linguistic tools, jupyter notebooks, GPUs and platforms, and other types of linguistic sofware.  
 
  
 # Linguistic Data Science 
-We foster AI, cross-fertilisation and interoperability for multimodal and  experimental data.
+We foster AI, cross-fertilisation and interoperability for multimodal and experimental data.
 
  
 # Platform development and project  
