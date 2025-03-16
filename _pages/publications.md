@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>, on <a href="https://hal.science/search/index/q/*/authIdHal_s/nicolas-ballier"> HAL</a>   and on  <a href="https://aclanthology.org/people/n/nicolas-ballier/">the ACL anthology</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>, on <a href="https://hal.science/search/index/q/*/authIdHal_s/nicolas-ballier" target="_blank"> HAL</a>   and on  <a href="https://aclanthology.org/people/n/nicolas-ballier/" target="_blank">the ACL anthology</a>.</div>
 {% endif %}
+
 
 {% include base_path %}
 
