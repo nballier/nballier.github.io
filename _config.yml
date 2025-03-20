@@ -31,7 +31,7 @@ author:
   url              : "https://clillac-arp.u-paris.fr/annuaire/ballier-nicolas/"
   email            : "firstname.lastname@u-paris.fr" 
   - label: "ACL"
-      icon: "ai ai-orcid ai"
+      icon: "https://github.com/nballier/nballier.github.io/blob/master/images/acl-logo.svg"
       url: "https://orcid.org/0000-0002-4845-4023"
 
   # Academic websites
@@ -40,7 +40,7 @@ author:
   
   ACL anthology    : "https://aclanthology.org/people/n/nicolas-ballier/"
   - label: "ORCID"
-      icon: "ai ai-orcid ai"
+      icon: "orcid.logo.icon.svg"
       url: "https://orcid.org/0000-0002-4845-4023"
   #ORCID            : "https://orcid.org/0000-0003-2179-1043" #https://orcid.org/my-orcid?orcid=0000-0003-2179-1043
   semantic         : "https://www.semanticscholar.org/author/Nicolas-Ballier/20486050"
