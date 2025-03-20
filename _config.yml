@@ -23,7 +23,7 @@ repository               : "https://nballier.github.io/" #academicpages/academic
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/nballier/nballier.github.io/blob/master/images/newBallier-150x150.jpg"
+  avatar           : "newBallier-150x150.jpg" # https://github.com/nballier/nballier.github.io/blob/master/images/
   name             : "Nicolas Ballier"
   pronouns         : # example: "she/her"  
   bio              : "Full Prof. of English Linguistics"
@@ -32,7 +32,7 @@ author:
   url              : "https://clillac-arp.u-paris.fr/annuaire/ballier-nicolas/"
   email            : "firstname.lastname@u-paris.fr" 
   - label: "ACL"
-      icon: "https://github.com/nballier/nballier.github.io/blob/master/images/acl-logo.svg"
+      icon: "acl-logo.svg" #https://github.com/nballier/nballier.github.io/blob/master/images/
       url: "https://orcid.org/0000-0002-4845-4023"
 
   # Academic websites
