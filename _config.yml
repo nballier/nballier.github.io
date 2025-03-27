@@ -22,7 +22,7 @@ repository               : "https://nballier.github.io/" #academicpages/academic
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "" #"newBallier-150x150.jpg"
+  avatar           : "newBallier-150x150.jpg"
   name             : "Nicolas Ballier"
   pronouns         : # example: "she/her"  
   bio              : "Full Prof. of English Linguistics"
