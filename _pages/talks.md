@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 **12 April 2025** <a href="https://lidilem.univ-grenoble-alpes.fr/actualites/automated-l2-speaking-assessment" target="_blank">Grenoble talk at LIDILEM and Service des Langues</a>
 
 Nicolas Ballier (ALTAE, Université Paris Cité) Whisper for L2 scoring : from segmental to suprasegmental features
@@ -15,6 +14,14 @@ Nicolas Ballier (ALTAE, Université Paris Cité) Whisper for L2 scoring : from s
 **12 April 2025**  [Grenoble talk at LIDILEM and Service des Langues](https://lidilem.univ-grenoble-alpes.fr/actualites/automated-l2-speaking-assessment){:target="_blank"}
 
 Nicolas Ballier (ALTAE, Université Paris Cité) Whisper for L2 scoring : from segmental to suprasegmental features
+
+
+
+**24 April 2025**  [zoom talk at GULP](https://www.gla.ac.uk/schools/critical/aboutus/resources/gulp/){:target="_blank"}
+
+Nicolas Ballier (ALTAE, Université Paris Cité) Is there a phonology of Semantic Subtokens ?   #GULPLabLunch
+
+
 
 
 
