@@ -17,13 +17,12 @@ url                      : "https://nballier.github.io/" # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://nballier.github.io/" #academicpages/academicpages.github.io"
 
-
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "newBallier-150x150.jpg" # https://github.com/nballier/nballier.github.io/blob/master/images/
+  avatar           : "" #"newBallier-150x150.jpg"
   name             : "Nicolas Ballier"
   pronouns         : # example: "she/her"  
   bio              : "Full Prof. of English Linguistics"
@@ -31,19 +30,12 @@ author:
   employer         : "Université Paris Cité, ALTAE lab"
   url              : "https://clillac-arp.u-paris.fr/annuaire/ballier-nicolas/"
   email            : "firstname.lastname@u-paris.fr" 
-  - label: "ACL"
-      icon: "acl-logo.svg" #https://github.com/nballier/nballier.github.io/blob/master/images/
-      url: "https://orcid.org/0000-0002-4845-4023"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=1DqF0BgAAAAJ&hl=fr&oi=ao"
-  
   ACL anthology    : "https://aclanthology.org/people/n/nicolas-ballier/"
-  - label: "ORCID"
-      icon: "orcid.logo.icon.svg"
-      url: "https://orcid.org/0000-0002-4845-4023"
-  #ORCID            : "https://orcid.org/0000-0003-2179-1043" #https://orcid.org/my-orcid?orcid=0000-0003-2179-1043
+  ORCID            : "https://orcid.org/0000-0003-2179-1043"
   semantic         : "https://www.semanticscholar.org/author/Nicolas-Ballier/20486050"
   HAL              : "https://cv.hal.science/nicolas-ballier"
   researchgate     : "https://www.researchgate.net/profile/Nicolas-Ballier"
@@ -80,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/watch?v=nokwdPdj3Xc"
+  youtube          : #"https://www.youtube.com/watch?v=nokwdPdj3Xc"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
