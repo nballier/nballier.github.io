@@ -17,38 +17,37 @@ Please send me an email to organise a zoom session. My university's current requ
 
 See the required [documents for PhD registration/grants applications](https://web.archive.org/web/20221208164550/http://ed132.ed.univ-paris-diderot.fr/doku.php?id=applying_for_a_doctoral_contract_en)  and in [French](https://ed622.u-paris.fr/contrats-doctoraux-ed-622/)
 
-I am potentially available for supervision in the field of AI research for education, in relation to my research topics, please do [take a look at my publications](https://clillac-arp.u-paris.fr/annuaire/ballier-nicolas/) for example on the analysis of current frameworks developed with colleagues, see [paper submission in French](https://github.com/nballier/nballier.github.io/blob/master/_publications/2025-01-15-EIAH2025submission.pdf). 
+I am potentially available for supervision in the field of AI research for education, in relation to my research topics, please do [take a look at my publications](https://altae.u-pariscite.fr/annuaire/ballier-nicolas/) for example on the analysis of current frameworks developed with colleagues, see [paper submission in French](https://github.com/nballier/nballier.github.io/blob/master/_publications/2025-01-15-EIAH2025submission.pdf) or on the uses of [Speech Models for L2 Scoring](https://statsmaths.github.io/pdf/2024-whisperl2.pdf). 
 
 **Analytics for Language Learning**
-In relation to the AI-generated dashboard we have created for the [A4LL project](https://sites-recherche.univ-rennes2.fr/lidile/articles/a4all/), we are looking for PhD candidates with some background in psycholinguistics to conduct field research on UX (User experience) with this platform and dashboard system. For candidates who are more theoretically grounded, we need to carry out an analysis of the metalinguistic comments based on the processing of the dashboard metrics. We also would like to compare the current plot-based interface with metalinguistic feedback. For more downstream tasks, we also search for a candidate able to test the relevance of LLMs to produce exercises in relation to the linguistic issues diagnosed by the system. 
+In relation to the AI-generated dashboard we have created for the [A4LL project](https://lidile.recherche.univ-rennes2.fr/article/a4ll-analytics-language-learning), we are looking for PhD candidates with some background in psycholinguistics to conduct field research on UX (User experience) with this platform and dashboard system. For candidates who are more theoretically grounded, we need to carry out an analysis of the metalinguistic comments based on the processing of the dashboard metrics. We also would like to compare the current plot-based interface with metalinguistic feedback. For more downstream tasks, we also search for a candidate able to test the relevance of LLMs to produce exercises in relation to the linguistic issues diagnosed by the system. 
 
 
 **Mispronunciation Detection and Diagnosis**
-I can also supervise PhD students willing to test what I call the technical 'affordance' of Whisper, analyzing more specifically the ability to properly diagnose mispronunciations based on the investigation of the subtoken and probabilities predicted by Whisper. This implies for example the analysis of a potential value of the mspronunciation thresholds  to be determined for different types of subtokens. If you want this paragraph to make sense, please [read this paper](https://hal.science/hal-04911934v1)
+I can also supervise PhD students willing to test what I call the technical 'affordance' of Whisper, analyzing more specifically the ability to properly diagnose mispronunciations based on the investigation of the subtoken and probabilities predicted by Whisper. This implies for example the analysis of a potential value of the mspronunciation thresholds to be determined for different types of subtokens. If you want this paragraph to make sense, please [read this paper](https://hal.science/hal-04911934v1)
 
 
 **biases in speech tokenisers**
-In relation to our project on "Promoting fairness for under-represented languages in multilingual LLMs (2025-2026)"
-(UW Global Innovation Fund Research award for a UPCIté/UW collaboration to promote fairness for under-represented languages in multilingual LLMs), we investigate architectural biases in 
+In relation to our project on "Promoting fairness for under-represented languages in multilingual LLMs (2025-2026)" (UW Global Innovation Fund Research award for a UPCIté/UW collaboration to promote fairness for under-represented languages in multilingual LLMs), we investigate architectural biases in speech foundation models, in particular its consequences on ASR and their distribution in the dictionary of subtokens. See our latest [EMNLP2025 paper](https://arxiv.org/pdf/2509.25516).
 
 
 **the linguistic "knowledge" of LLMs**
-I also elaborate on an epistemological line of research on the "knowledge" of LLMs. See our draft here for an example of potential investigations of [phonological knowledge](https://hal-univ-paris.archives-ouvertes.fr/hal-04927138v1)
+I also elaborate on an epistemological line of research on the "knowledge" of LLMs. See our draft here for an example of potential investigations of [phonological knowledge](https://hal-univ-paris.archives-ouvertes.fr/hal-04927138v1). We are investigating the vector space or hypothesis space of theses models. See our [draft](https://arxiv.org/pdf/2510.22492).
 
 
 **Keystroke logging modelling**
-Last, for Neural modelling of Keylogs: for students (preferably) with a background in data science, I am looking for applicants likely to investigate neural models for keylogging data for the dataset we collected in our Deep learning for Language Assessment project. See our paper published at [LREC2024](https://aclanthology.org/2024.lrec-main.938.pdf)
+Last, for Neural modelling of Keylogs: for students (preferably) with a background in data science, I am looking for applicants likely to investigate neural models for keylogging data for the dataset we collected in our Deep learning for Language Assessment project. See our paper on the dataset published at [LREC2024](https://aclanthology.org/2024.lrec-main.938.pdf) and our [short paper](https://hal.science/hal-05146826/document).
 
 
 
 ## MA supervision
-Our current brochure for the [MA in English linguistics](https://paris-gsl.org/masters/english-linguistics) is [here](https://cloud.parisdescartes.fr/index.php/s/Rbcdrk6pdkEKtF4), but do expect changes for 2025-2026. We are part of the [Paris Graduate School of Linguistics](https://paris-gsl.org/index.html). See our [grants for international students](https://u-paris.fr/en/call-for-applications-smarts-up-graduate-schools-incoming-mobility-scholarships-for-masters-students/)
+Our current brochure for the [MA in English linguistics](https://paris-gsl.org/masters/english-linguistics) is [here](https://cloud.parisdescartes.fr/index.php/s/Rbcdrk6pdkEKtF4](https://cloud.u-paris.fr/s/QxJ8SqyNPLow4NC). We are part of the [Paris Graduate School of Linguistics](https://paris-gsl.org/index.html). See our [grants for international students](https://u-paris.fr/en/call-for-applications-smarts-up-graduate-schools-incoming-mobility-scholarships-for-masters-students/). Please note the early deadline for applications to our [Mobility grants](https://mobility.smarts-up.fr/) (deadline Jan16).
 
 
 **Areas of expertise**: neural machine translation, automatic approaches to learner data (written/spoken data), corpus phonology : L2 pronunciation/prosody/varieties of English within a corpus-based/quantitative/automatic/AI perspective, epistemology of linguistic data science
 
 
-**Possible topics for 2025-2026**:
+**Possible topics for 2026-2027**:
 AI for speech scoring / Large Language Models (LLMs) for learner feedback / Probing the phonological representations of LLMs
 
 **AI for L2 speech scoring**
